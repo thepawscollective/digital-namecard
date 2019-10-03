@@ -11,4 +11,5 @@ item1.ADR;type=WORK;type=pref:;;Jalan SS 22/23\nDamansara Jaya\, 47400;;;Petalin
 item1.X-ABADR:my
 item2.URL;type=pref:thepawscollective.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:instagram.com/thepawscollective.my
 END:VCARD
